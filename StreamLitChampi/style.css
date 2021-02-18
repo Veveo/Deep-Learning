@@ -1,0 +1,25 @@
+h1 {
+    position: relative;
+    top: -50px;
+    text-align: center;
+    font-size: 72px;
+    background: -webkit-linear-gradient( rgb(210, 240, 214), rgb(0, 112, 34));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.css-1aumxhk {
+    background-color: rgb(210, 240, 214);
+}
+
+body {
+    color: black;
+}
